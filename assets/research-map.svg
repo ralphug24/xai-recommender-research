@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">Explainable AI and user trust: research concept</title>
+<desc id="desc">The proposal connects textual and visual or interactive explanations and prior recommender-system experience to satisfaction, trust and perceived recommendation quality. These are relationships to investigate.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="none" stroke="#c6a75b" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="650" rx="20" fill="#111719"/>
+<g font-family="Arial, sans-serif">
+<text x="66" y="70" fill="#c6a75b" font-size="16" letter-spacing="3">HUMAN–AI INTERACTION / RESEARCH PROPOSAL</text>
+<text x="66" y="128" fill="#f1f0e9" font-size="37">Why this recommendation?</text>
+<text x="66" y="166" fill="#aeb8b8" font-size="21">Connecting explanation features to the user's experience</text>
+<text x="66" y="226" fill="#aeb8b8" font-size="15" letter-spacing="2">FACTORS OF INTEREST</text>
+<text x="748" y="226" fill="#aeb8b8" font-size="15" letter-spacing="2">OUTCOMES TO MEASURE</text>
+<g fill="#1a2426" stroke="#344245"><rect x="66" y="249" width="454" height="133" rx="12"/><rect x="66" y="405" width="454" height="113" rx="12"/><rect x="718" y="249" width="416" height="269" rx="12"/></g>
+<g fill="#f1f0e9" font-size="24"><text x="94" y="289">Explanation format</text><text x="94" y="447">Prior experience</text><text x="750" y="299">Satisfaction</text><text x="750" y="377">Trust</text><text x="750" y="454">Perceived quality</text></g>
+<g fill="#b7c1bf" font-size="19"><text x="94" y="327">Textual explanations</text><text x="94" y="356">Visual or interactive features</text><text x="94" y="482">Familiarity with recommender systems</text><text x="750" y="331">How does the experience feel?</text><text x="750" y="409">How much do users trust it?</text><text x="750" y="486">Do the recommendations feel relevant?</text></g>
+<path d="M538 315H602V384H692M538 460H602V384" fill="none" stroke="#c6a75b" stroke-width="2.5" marker-end="url(#arrow)"/>
+<text x="66" y="582" fill="#c6a75b" font-size="17">CONCEPT SUMMARY · PROPOSED STUDY</text>
+<text x="66" y="612" fill="#aeb8b8" font-size="16">Concept summary of the variables identified in the final course paper.</text>
+</g></svg>

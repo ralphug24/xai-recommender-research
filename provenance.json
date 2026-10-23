@@ -1,0 +1,21 @@
+{
+  "course": "HCC 8330 - Research Methods in Human-Centered Computing",
+  "term": "Fall 2023",
+  "project_scope": "Research proposal and study materials; participant study not conducted",
+  "files": [
+    {
+      "path": "paper/final-proposal.pdf",
+      "source_archive": "HCC 8330 Research Methods in HCC.zip",
+      "source_member": "HCC 8330 Research Methods in HCC/Proposal Submission/Experimental Insights on the effects of Explainable AI features on User satisfaction,.pdf",
+      "sha256": "5364ded6028997edf73d88877d38183deb0191d70c45e9f33651ff0f0f554701",
+      "contents": "Original course submission; unchanged PDF contents"
+    },
+    {
+      "path": "materials/questionnaire.pdf",
+      "source_archive": "HCC 8330 Research Methods in HCC.zip",
+      "source_member": "HCC 8330 Research Methods in HCC/Proposal Submission/Questionnaire - SUPPORTING DOCUMENT.pdf",
+      "sha256": "42ac11178adc8ced1bebf1e21038f39fba033d011712968585b3e860d53c136f",
+      "contents": "Original course submission; unchanged PDF contents"
+    }
+  ]
+}
